@@ -18,3 +18,46 @@
 +defaults/win-64::xz-5.4.5-h8cc25b3_0
 +defaults/win-64::zlib-1.2.13-h8cc25b3_0
 # update specs: ['python==3.12']
+==> 2024-02-04 18:08:26 <==
+# cmd: C:\Users\nagas\anaconda3\Scripts\conda-script.py install -p c:\Users\nagas\Desktop\mlproject\venu ipykernel --update-deps --force-reinstall
+# conda version: 23.7.4
+-defaults/win-64::openssl-3.0.12-h2bbff1b_0
+-defaults/win-64::python-3.12.0-h1d929f7_0
++defaults/noarch::asttokens-2.0.5-pyhd3eb1b0_0
++defaults/noarch::decorator-5.1.1-pyhd3eb1b0_0
++defaults/noarch::executing-0.8.3-pyhd3eb1b0_0
++defaults/noarch::parso-0.8.3-pyhd3eb1b0_0
++defaults/noarch::prompt_toolkit-3.0.43-hd3eb1b0_0
++defaults/noarch::pure_eval-0.2.2-pyhd3eb1b0_0
++defaults/noarch::python-dateutil-2.8.2-pyhd3eb1b0_0
++defaults/noarch::six-1.16.0-pyhd3eb1b0_1
++defaults/noarch::stack_data-0.2.0-pyhd3eb1b0_0
++defaults/noarch::wcwidth-0.2.5-pyhd3eb1b0_0
++defaults/win-64::colorama-0.4.6-py312haa95532_0
++defaults/win-64::comm-0.1.2-py312haa95532_0
++defaults/win-64::debugpy-1.6.7-py312hd77b12b_0
++defaults/win-64::ipykernel-6.28.0-py312haa95532_0
++defaults/win-64::ipython-8.20.0-py312haa95532_0
++defaults/win-64::jedi-0.18.1-py312haa95532_1
++defaults/win-64::jupyter_client-8.6.0-py312haa95532_0
++defaults/win-64::jupyter_core-5.5.0-py312haa95532_0
++defaults/win-64::libsodium-1.0.18-h62dcd97_0
++defaults/win-64::matplotlib-inline-0.1.6-py312haa95532_0
++defaults/win-64::nest-asyncio-1.5.6-py312haa95532_0
++defaults/win-64::openssl-3.0.13-h2bbff1b_0
++defaults/win-64::packaging-23.1-py312haa95532_0
++defaults/win-64::platformdirs-3.10.0-py312haa95532_0
++defaults/win-64::prompt-toolkit-3.0.43-py312haa95532_0
++defaults/win-64::psutil-5.9.0-py312h2bbff1b_0
++defaults/win-64::pygments-2.15.1-py312haa95532_1
++defaults/win-64::python-3.12.1-h1d929f7_0
++defaults/win-64::pywin32-305-py312h2bbff1b_0
++defaults/win-64::pyzmq-25.1.2-py312hd77b12b_0
++defaults/win-64::tornado-6.3.3-py312h2bbff1b_0
++defaults/win-64::traitlets-5.7.1-py312haa95532_0
++defaults/win-64::zeromq-4.3.5-hd77b12b_0
+# update specs: ['expat', 'wcwidth', 'zeromq', 'pygments', 'jupyter_client', 'decorator', 'tzdata', 'psutil', 'wheel', 'libsodium', 'python=3.12', 'debugpy', 'libffi', 'comm', 'matplotlib-inline', 'prompt-toolkit', 'pyzmq', 'openssl', 'traitlets', 'packaging', 'pywin32', 'python-dateutil', 'zlib', 'ipython', 'bzip2', 'xz', 'tornado', 'asttokens', 'parso', 'jedi', 'platformdirs', 'vc', 'six', 'colorama', 'prompt_toolkit', 'tk', 'setuptools', 'nest-asyncio', 'pure_eval', 'sqlite', 'pip', 'ca-certificates', 'stack_data', 'executing', 'jupyter_core', 'vs2015_runtime', 'ipykernel']
+==> 2024-02-04 18:10:00 <==
+# cmd: C:\Users\nagas\anaconda3\Scripts\conda-script.py install -p c:\Users\nagas\Desktop\mlproject\venu ipykernel --update-deps --force-reinstall
+# conda version: 23.7.4
+# update specs: ['platformdirs', 'prompt-toolkit', 'asttokens', 'parso', 'matplotlib-inline', 'nest-asyncio', 'python=3.12', 'zeromq', 'pyzmq', 'openssl', 'tk', 'sqlite', 'executing', 'libffi', 'pygments', 'psutil', 'traitlets', 'ca-certificates', 'libsodium', 'vs2015_runtime', 'pywin32', 'stack_data', 'zlib', 'tornado', 'wcwidth', 'vc', 'tzdata', 'setuptools', 'ipython', 'decorator', 'colorama', 'debugpy', 'pip', 'xz', 'expat', 'pure_eval', 'six', 'jedi', 'wheel', 'bzip2', 'comm', 'jupyter_core', 'jupyter_client', 'packaging', 'python-dateutil', 'prompt_toolkit', 'ipykernel']
